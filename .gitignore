@@ -12,5 +12,7 @@ nlp_project_2_test.ipynb
 /ruochee/.vector_cache
 /ruochee/bigru_model.weights.h5
 /ruochee/bigru_adv_model.weights.h5
+/ruochee/bigru_adv_model_v2.weights.h5
 /ruochee/bilstm_model.weights.h5
 /ruochee/bilstm_adv_model.weights.h5
+/ruochee/bilstm_adv_model_v2.weights.h5
